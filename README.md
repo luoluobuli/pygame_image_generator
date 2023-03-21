@@ -1,3 +1,3 @@
 # pygame_image_generator
-My VIS 142 midterm assignment. 
-Creates an arbitrary image everytime you execute it. 
+VIS 142 midterm assignment. 
+The program is an arbitrary image generator based on Pygame, which creates a new kaleidoscope-like central symmetric shape every time it is executed.
